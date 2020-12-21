@@ -28,3 +28,4 @@ Part 2: Gathering additional information of the list of officially categorized b
 dataset URL: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M <br />
 Part 3: Creating a new consolidated dataset of the Neighborhoods, along with their boroughs, crime data and the respective Neighbourhood's co-ordinates.: This data will be fetched using OpenCage Geocoder to find the safest and most dangerous borough and explore the neighbourhood by plotting it on maps using Folium and perform exploratory data analysis.
 
+PS: I will finish the final deliverables of the project, including codes, presentation and report in Week 5 Assignment. Thanks!
